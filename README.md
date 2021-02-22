@@ -1,2 +1,1 @@
-# pian
-# pian
+aplicatie pian Stoca Andrei
